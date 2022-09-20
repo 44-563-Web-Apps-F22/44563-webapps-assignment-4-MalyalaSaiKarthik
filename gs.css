@@ -1,0 +1,44 @@
+.speech{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+}
+
+.song{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+}
+
+.direction{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    background-color: coral;
+}
+
+p:hover{
+    background-color: lightblue;
+}
+
+.name{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+}
+
+.marco{
+    color: aqua;
+} 
+
+.giuseppe{
+    color: cadetblue;
+}
+
+.giorgio{
+    color: ivory;
+}
+
+.speech {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.song{
+    font-family: Arial, Helvetica, sans-serif;
+}
