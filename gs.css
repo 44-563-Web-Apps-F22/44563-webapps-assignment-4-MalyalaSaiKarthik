@@ -14,7 +14,7 @@
     background-color: coral;
 }
 
-p:hover{
+.direction:hover{
     background-color: lightblue;
 }
 
