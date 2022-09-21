@@ -23,6 +23,11 @@
     font-size: 16px;
 }
 
+.name:hover {
+    background-color: crimson;
+    color: white;
+}
+
 .marco{
     color: aqua;
 } 
